@@ -1,0 +1,8 @@
+com\diego\posinfnet\AssinaturaSemestral.class
+com\diego\posinfnet\AssinaturaAnual.class
+com\diego\posinfnet\AssinaturaTrimestral.class
+com\diego\posinfnet\Assinatura.class
+com\diego\posinfnet\LojaVirtual.class
+com\diego\posinfnet\Pagamento.class
+com\diego\posinfnet\Cliente.class
+com\diego\posinfnet\Produto.class

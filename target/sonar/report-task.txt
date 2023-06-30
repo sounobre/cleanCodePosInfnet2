@@ -1,0 +1,6 @@
+projectKey=cleanCode
+serverUrl=http://localhost:9000
+serverVersion=10.1.0.73491
+dashboardUrl=http://localhost:9000/dashboard?id=cleanCode
+ceTaskId=AYkNKzHutIiaqzaX-dNm
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYkNKzHutIiaqzaX-dNm
